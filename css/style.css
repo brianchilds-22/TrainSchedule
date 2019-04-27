@@ -1,0 +1,37 @@
+.jumbotron {
+    margin-top: 25px;
+    color: whitesmoke;
+    background: rgb(36, 181, 198);
+}
+
+.card-header {
+    color: whitesmoke;
+    background: rgb(36, 181, 198);
+    font-weight: 500;
+    font-size: 24px;
+}
+
+.card-body {
+    background: rgb(228, 246, 248);
+}
+
+
+
+.form-group {
+    font-weight: 700;
+    color: rgb(36, 181, 198);
+
+}
+
+th {
+    color: rgb(36, 181, 198);
+
+}
+
+#timeTable {
+    color: black;
+}
+
+#submitButton {
+    background: rgb(36, 181, 198);
+}
